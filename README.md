@@ -1,5 +1,7 @@
 # Main
 
+Grupo Telegram [Deseño de aplicacións web](https://t.me/+VX5ZGOwFOgPACeMm)
+
 Repositorios y proyectos de los compis: [GitHub compis](https://docs.google.com/spreadsheets/d/1YnNqMdpdfxEy20Svu4NmOSgQ2jMfSVYfUniE3tmcpRA/edit?usp=sharing)
 
 [Carpeta pública do curso](https://drive.google.com/drive/folders/1G6HeH6n0AagI5enrcIIx6P14-BurKUJ2?usp=sharing)
